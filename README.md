@@ -1,1 +1,1 @@
-# Rocket.Q - NLWTogether
+# Rocket.Q - NLW6 - Together
