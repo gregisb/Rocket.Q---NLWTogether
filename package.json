@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon .",
+    "start": "node .",
     "init-db": "node ./src/db/init.js",
     "debug": "node ./src/db/init.js"
   },
