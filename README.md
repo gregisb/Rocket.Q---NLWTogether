@@ -7,5 +7,17 @@ Aplicação para enviar perguntas à professores que estejam dando aulas ao vivo
 
 # How to run
 
-NPM install
-NPM start 
+Clone o projeto e acesse a pasta.
+
+$ git clone gregisb/Rocket.Q---NLWTogether
+$ cd rocketq
+Siga as etapas abaixo:
+
+# Install the dependencies
+$ npm install
+
+# Start the database
+$ npm run init-db
+
+# Start the project
+$ npm start
