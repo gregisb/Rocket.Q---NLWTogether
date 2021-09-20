@@ -3,7 +3,7 @@
 
 # Rocket.Q
 
-Aplicação para enviar perguntas à professores que estejam dando aulas ao vivo, ou a streamers, para que possam organizar as perguntas e responderem online. Feito em HTML, CSS, JavaScript, com Node e Express.
+Aplicação de envio de perguntas, para que possam ser organizadas, seja por professores dando aulas online ou streamers, para que sejam respondidas online. Feito em HTML, CSS, JavaScript, em ambiente Node com Express.
 
 # How to run
 
